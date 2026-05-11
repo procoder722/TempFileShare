@@ -90,8 +90,3 @@ Quickly share notes, assignments, reports, and project files.
 - Real-time transfer status
 - Peer-to-peer transfer
 
-
-
-npm install
-
-npm run dev
