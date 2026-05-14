@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# System files
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+
+# Uploads folder
+uploads/
+
+# Sensitive files
+backend/data.json
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build files
+dist/
